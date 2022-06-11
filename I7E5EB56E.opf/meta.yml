@@ -1,0 +1,35 @@
+id: I7E5EB56E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:36:23.161694'
+last_modified: '2022-06-11T13:36:23.161705'
+parser: null
+source_metadata:
+  title: Bhikṣuṇī Lakṣmī
+  language: en
+  description: 'Texts by and about the Kashmiri nun Bhikṣuṇī Lakṣmī/Lakṣmīṅkarā, known
+    to Tibetans as Gelongma Palmo (dge slong ma dpal mo):'
+  volume:
+    f0F81:
+      title: Praise of Noble Avalokiteśvara
+      base_file: f0F81.txt
+      order: 1
+      parent: Praise
+    f81C1:
+      title: Praise of Noble Avalokiteśvara (Tengyur version)
+      base_file: f81C1.txt
+      order: 2
+      parent: Praise
+    fC4F9:
+      title: Seven-Branch Offering to Tārā
+      base_file: fC4F9.txt
+      order: 3
+      parent: Seven-Branch Offering
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
